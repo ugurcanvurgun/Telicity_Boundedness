@@ -1,4 +1,4 @@
-# Telicity_Boundedness
+# Telicity in Language and Boundedness in Cognition
  
 Platform: PCIbex
 
